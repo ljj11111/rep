@@ -5,6 +5,7 @@ public class Hello {
     private int cc=50;
     public static void main(String[] args) {
         System.out.println("你好！李家键！");
-        int aaa= 1000;
+        int a=1;
+        int b;
     }
 }
