@@ -10,5 +10,6 @@ public class Hello {
         int c;
 
         int aaaa=1000;
+        int aa=1;
     }
 }
