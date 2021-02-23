@@ -9,5 +9,7 @@ public class Hello {
         int b;
 
         int aaaa=1000;
+
+        int bb = 159;
     }
 }
