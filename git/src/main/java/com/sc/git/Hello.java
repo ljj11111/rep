@@ -7,8 +7,10 @@ public class Hello {
         System.out.println("你好！李家键！");
         int a=1;
         int b;
+        int c;
 
         int aaaa=1000;
+        int aa=1;
 
         int bb = 159;
     }
