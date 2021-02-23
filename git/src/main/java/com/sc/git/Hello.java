@@ -8,5 +8,7 @@ public class Hello {
         int a=1;
         int b;
         int c;
+
+        int aaaa=1000;
     }
 }
