@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("你好！李家键！");
         int a=1;
         int b;
+        int c;
     }
 }
