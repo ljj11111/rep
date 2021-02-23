@@ -6,5 +6,6 @@ public class Hello {
     public static void main(String[] args) {
         System.out.println("你好！李家键！");
         int a=1;
+        int b;
     }
 }
